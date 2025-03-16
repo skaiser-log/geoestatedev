@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/geoestatedev.svg)](https://anaconda.org/conda-forge/geoestatedev)
 
 
-**Test phyton package**
+**Test python package**
 
 
 -   Free software: MIT License

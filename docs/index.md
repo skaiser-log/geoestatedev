@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/pypi/v/geoestatedev.svg)](https://pypi.python.org/pypi/geoestatedev)
 
 
-**Test phyton package**
+**Test python package**
 
 
 -   Free software: MIT License
