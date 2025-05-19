@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/changelog/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/common/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/contributing/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/faq/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/geoestatedev/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/installation/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/usage/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://skaiser-log.github.io/geoestatedev/examples/intro/</loc>
-         <lastmod>2025-03-16</lastmod>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://skaiser-log.github.io/geoestatedev/examples/map/</loc>
+         <lastmod>2025-05-19</lastmod>
     </url>
 </urlset>
