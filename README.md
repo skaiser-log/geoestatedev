@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://skaiser-log.github.io/geoestatedev
-    
+
 
 ## Features
 
