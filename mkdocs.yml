@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/skaiser-log/geoestatedev/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/map.ipynb
     - API Reference:
           - geoestatedev module: geoestatedev.md
           - common module: common.md

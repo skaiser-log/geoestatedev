@@ -13,4 +13,7 @@
 
 ## Features
 
--   TODO
+-   Geoestate is the new big thing
+-   Lovelyyyyyyyy
+
+## Usage
